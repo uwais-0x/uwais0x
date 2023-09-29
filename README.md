@@ -186,7 +186,7 @@ This Codepen Project is meant for Learning Purposes only and must not be used fo
             <ul>
               <li class="li"><i class="bi bi-check-circle"></i>Rose petal 
                 Gram flour 
-                Avlo vera 
+                Aloevera
                 Charcoal 
                 Acalypha indica 
                 Green gram soap 
