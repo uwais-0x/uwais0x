@@ -56,9 +56,7 @@ This Codepen Project is meant for Learning Purposes only and must not be used fo
     .btn:hover{
       color: goldenrod;
     }
-    .line{
-    color:goldenrod;
-    }
+    
   </style>
 
   <!-- Template Main CSS File -->
@@ -679,7 +677,7 @@ This Codepen Project is meant for Learning Purposes only and must not be used fo
             </ul>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links"> <hr class="line">
+          <div class="col-lg-3 col-md-6 footer-links"> 
             <h4>Our Services</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
