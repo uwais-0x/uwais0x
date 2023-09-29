@@ -702,7 +702,7 @@ This Codepen Project is meant for Learning Purposes only and must not be used fo
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/restaurantly-restaurant-template/ -->
-        Designed by <a href="https://varshafathima.github.io/" target="_blank">Varshafathima</a>
+        Designed by <a href="https://varshafathima.github.io/" target="_blank">Varshafathima</a><p>click Here</p>
       </div>
     </div>
   </footer><!-- End Footer -->
